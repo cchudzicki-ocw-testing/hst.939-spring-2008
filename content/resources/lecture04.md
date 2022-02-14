@@ -4,7 +4,12 @@ description: Lecture notes on microfluidics and global health practice with gues
   lecturer David Steinmiller from Claros Diagnostics.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/a6c657f2fb49d7d0f1fa606b0878f177_lecture04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Microfluidics and Global Health Practice
+type: OCWFile
 uid: a6c657f2-fb49-d7d0-f1fa-606b0878f177
 ---

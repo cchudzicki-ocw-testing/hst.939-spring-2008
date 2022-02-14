@@ -5,7 +5,11 @@ description: Biography of Jose Gomez-Marquez, co-inventor and founder of Aerovax
   inhalable drugs and vaccine to remote populations.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/a726cbe8e45381120682409245452b3f_jose_bio.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Document
 title: Jose Gomez-Marquez
+type: OCWFile
 uid: a726cbe8-e453-8112-0682-409245452b3f
 ---

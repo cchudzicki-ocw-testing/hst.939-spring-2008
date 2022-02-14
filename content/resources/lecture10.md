@@ -5,7 +5,12 @@ description: Lecture notes on biopharmeceutical innovation. Includes an introduc
   affairs at Ely Lilly.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/fbdf6af1774d7a34d3c3846338683817_lecture10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: BioPharmaceuticals
+type: OCWFile
 uid: fbdf6af1-774d-7a34-d3c3-846338683817
 ---

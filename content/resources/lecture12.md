@@ -5,7 +5,12 @@ description: "Lecture notes on technology innovation with guest lecturer Kristia
   \ A Clinician\u2019s Perspective."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/8e05e2eea031e26fc76d69696ae86d10_lecture12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: CIMIT and Toner Lab
+type: OCWFile
 uid: 8e05e2ee-a031-e26f-c76d-69696ae86d10
 ---

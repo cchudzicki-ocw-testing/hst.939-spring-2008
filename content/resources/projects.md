@@ -4,7 +4,12 @@ description: A list of possible topics for the course project with information o
   contacts, areas of interest, organization, and host country.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/253835090ca96fd408ac22c032978c75_projects.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Project List
+type: OCWFile
 uid: 25383509-0ca9-6fd4-08ac-22c032978c75
 ---

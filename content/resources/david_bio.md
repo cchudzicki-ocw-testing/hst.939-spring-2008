@@ -3,7 +3,11 @@ content_type: resource
 description: Biography of David Berry, a Principal at Flagship Ventures.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/6deb1eb34d3ad55c8a2a181f081485d6_david_bio.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Document
 title: David Berry
+type: OCWFile
 uid: 6deb1eb3-4d3a-d55c-8a2a-181f081485d6
 ---

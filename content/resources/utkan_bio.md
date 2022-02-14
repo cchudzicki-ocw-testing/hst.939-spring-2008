@@ -4,7 +4,11 @@ description: Biography of Utkan Demirci, an Instructor (Assistant Professor) at 
   Health Sciences and Technology and Harvard Medical School.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/6275b2c78a97c87704ccf3051e49eac1_utkan_bio.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Document
 title: Utkan Demirci
+type: OCWFile
 uid: 6275b2c7-8a97-c877-04cc-f3051e49eac1
 ---

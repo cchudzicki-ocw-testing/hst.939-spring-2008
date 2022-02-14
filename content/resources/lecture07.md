@@ -5,7 +5,12 @@ description: Lecture notes on health systems strengthening, systems, human resou
   logistics and supplies, quality assurance, and interactive cases.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/e903860af6a7a006caa7a0614af680d9_lecture07.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Health Systems Strengthening
+type: OCWFile
 uid: e903860a-f6a7-a006-caa7-a0614af680d9
 ---

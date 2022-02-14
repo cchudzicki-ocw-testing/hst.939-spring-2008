@@ -7,7 +7,12 @@ description: Guidelines and requirements for completing a design project in coll
   paper.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/6e38d711879242e0586955bab0d7ae4a_project_reqs.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Project Requirements
+type: OCWFile
 uid: 6e38d711-8792-42e0-5869-55bab0d7ae4a
 ---
