@@ -5,6 +5,7 @@ description: Biography of Utkan Demirci, an Instructor (Assistant Professor) at 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/6275b2c78a97c87704ccf3051e49eac1_utkan_bio.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
