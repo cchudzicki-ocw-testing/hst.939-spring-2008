@@ -10,6 +10,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: Jose Gomez-Marquez
-type: OCWFile
 uid: a726cbe8-e453-8112-0682-409245452b3f
 ---

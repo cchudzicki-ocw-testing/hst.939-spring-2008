@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: Utkan Demirci
-type: OCWFile
 uid: 6275b2c7-8a97-c877-04cc-f3051e49eac1
 ---

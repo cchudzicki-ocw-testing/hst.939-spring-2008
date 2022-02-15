@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Alternative Energy Sources
-type: OCWFile
 uid: 65bbbbba-6869-7615-1aa3-67bd27858528
 ---

@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: CIMIT and Toner Lab
-type: OCWFile
 uid: 8e05e2ee-a031-e26f-c76d-69696ae86d10
 ---

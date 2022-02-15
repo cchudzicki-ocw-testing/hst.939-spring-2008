@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: Robert Langer
-type: OCWFile
 uid: 53a3f814-fc69-6edc-1bf0-57d32b03d9e2
 ---

@@ -8,6 +8,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: Michael Lytton
-type: OCWFile
 uid: 5981779c-7981-593d-a89b-d62ab45e4cf8
 ---

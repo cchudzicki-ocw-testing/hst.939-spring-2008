@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Venture Philanthropy
-type: OCWFile
 uid: f0124b6f-d5b5-58b0-db12-2da57f1d036f
 ---

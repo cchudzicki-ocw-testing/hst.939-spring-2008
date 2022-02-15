@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: Ben Baumann
-type: OCWFile
 uid: 37c82cff-a06f-8b46-ee18-27be2751a113
 ---

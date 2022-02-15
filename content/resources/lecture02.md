@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: HPV Vaccine Case Study
-type: OCWFile
 uid: d8a88a5e-4d00-8666-ee4e-2b0b953ec272
 ---

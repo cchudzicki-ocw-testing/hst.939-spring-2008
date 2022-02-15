@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: David Steinmiller
-type: OCWFile
 uid: 81edcfbe-cca6-e3b8-4e6a-8d4754d2a994
 ---

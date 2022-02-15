@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: Dr. Kristian Olson
-type: OCWFile
 uid: d9fb593a-7c62-f317-193c-a1e1d3fc5fe3
 ---

@@ -8,6 +8,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: Elizabeth Bailey
-type: OCWFile
 uid: ca3451b1-55c4-54b5-7e31-8acbdd761e35
 ---

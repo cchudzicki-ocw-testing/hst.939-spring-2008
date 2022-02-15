@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: Dr. Vikram Sheel Kumar
-type: OCWFile
 uid: 945546b7-b55f-8887-740c-2604582ab1fb
 ---

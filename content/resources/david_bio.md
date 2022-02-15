@@ -8,6 +8,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: David Berry
-type: OCWFile
 uid: 6deb1eb3-4d3a-d55c-8a2a-181f081485d6
 ---

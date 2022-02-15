@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Everything You Ever Wanted to Know about Medical Device Marketing Clearance
-type: OCWFile
 uid: 854be2b4-eb22-9759-9678-2eddb95e3e61
 ---

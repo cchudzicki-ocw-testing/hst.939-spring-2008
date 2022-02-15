@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Vaccines Development
-type: OCWFile
 uid: e0656311-4a80-caff-c6e2-b4925ac8770a
 ---

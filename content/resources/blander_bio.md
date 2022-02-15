@@ -8,6 +8,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: Jeffrey Blander
-type: OCWFile
 uid: af230ad8-d226-4f24-4d0b-f527f2130fd4
 ---

@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Health Systems Strengthening
-type: OCWFile
 uid: e903860a-f6a7-a006-caa7-a0614af680d9
 ---

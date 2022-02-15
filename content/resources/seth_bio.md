@@ -8,6 +8,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: Seth Berkley
-type: OCWFile
 uid: 8e3c3f9f-6be1-1d68-52f8-d47abd4c47e2
 ---

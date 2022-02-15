@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: Chris D. Earl
-type: OCWFile
 uid: 1dc1aced-f266-a41f-2394-008bbe24b690
 ---

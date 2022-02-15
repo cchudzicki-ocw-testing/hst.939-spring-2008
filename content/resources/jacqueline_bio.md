@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: Jacqueline Sherris
-type: OCWFile
 uid: 5cc868fe-b276-9527-9d98-6f7bb686efcd
 ---

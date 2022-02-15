@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Microfluidics and Global Health Practice
-type: OCWFile
 uid: a6c657f2-fb49-d7d0-f1fa-606b0878f177
 ---

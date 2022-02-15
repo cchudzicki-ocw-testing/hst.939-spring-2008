@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: Public Private Partnerships for Health
-type: OCWFile
 uid: a9cab6e1-b449-c20f-3ca7-eda31a6ee28f
 ---
