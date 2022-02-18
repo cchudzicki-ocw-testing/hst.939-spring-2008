@@ -256,7 +256,7 @@ Geelhoed, G. ![This resource may not render correctly in a screen reader.](/imag
 
 McGirk, T. "[The $28 Foot](https://diabeticfootonline.com/2010/02/03/heroes-of-medicine-the-28-foot/)." Time, October 1, 1997.
 
-Phillips, R. "Everything You Ever Wanted to Know about Medical Device Marketing Clearance." Center for Devices and Radiological Health, U. S. Food and Drug Administration. ([PDF]({{< baseurl >}}/resources/phillips_fda))
+Phillips, R. "Everything You Ever Wanted to Know about Medical Device Marketing Clearance." Center for Devices and Radiological Health, U. S. Food and Drug Administration. ({{< resource_link 854be2b4-eb22-9759-9678-2eddb95e3e61 "PDF" >}})
 
 Hammond, Allen L., et al. "The Health Market." Chapter 2 in [_The Next 4 Billion: Market Size and Business Strategy at the Base of the Pyramid_](http://www.wri.org/publication/the-next-4-billion). Washington, DC: World Resources Institute, 2007.
 
