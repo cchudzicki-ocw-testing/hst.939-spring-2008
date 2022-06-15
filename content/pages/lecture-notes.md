@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with information on the lecturers and student-written lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
