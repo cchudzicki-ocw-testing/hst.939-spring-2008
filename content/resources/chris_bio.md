@@ -5,6 +5,7 @@ description: Biography of Chris D. Earl, President and CEO, BIO Ventures for Glo
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/1dc1acedf266a41f2394008bbe24b690_chris_bio.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection

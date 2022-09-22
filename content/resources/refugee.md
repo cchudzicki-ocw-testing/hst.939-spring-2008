@@ -6,6 +6,7 @@ description: Case study on refugee absorption and sustainability. Examines The G
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/a84d9580e82a8243d573101dee3d05b9_refugee.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

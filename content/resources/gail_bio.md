@@ -5,6 +5,7 @@ description: Biography of Gail Cassell, Vice President of Infectious Diseases, E
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/d2a09a385c14d4b56198c69c996b70a7_gail_bio.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
